@@ -90,4 +90,4 @@ MIT License
 ## Author
 
 Made by **[Darky-Github](https://github.com/Darky-Github)**  
-© 2025 Darky-Github. All rights reserved.
+© 2026 Darky-Github. All rights reserved.
